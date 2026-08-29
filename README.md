@@ -8,6 +8,16 @@
 Your text goes right here. It will automatically sit next to the image and flow around it if the text is long enough to span multiple lines.
 <br clear="right" />
 
+
+
+<pre>
+  This text   will exactly keep
+  all of      the empty spaces
+  and         line breaks.
+</pre>
+
+
+
 <img src=https://cdn.phototourl.com/member/2026-08-29-d010d70a-f46d-4f7d-a8b7-d51dcb40c939.png alt="Alt Text" width="500">
 
 kahssf
