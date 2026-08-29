@@ -39,5 +39,8 @@ ok
 
 
 <img align="left" width="200" src=https://cdn.phototourl.com/member/2026-08-29-4ec3214c-0645-42ba-a289-a3ed50e3858c.png />
-```Hi p
+
+[PANCAKE rentry](https://rentry.co/pancakegod)
+
+[PANCAKE sp](https://pancakegod.straw.page)
 <br clear="left" />
