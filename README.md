@@ -12,7 +12,7 @@ Your text goes right here. It will automatically sit next to the image and flow 
 
 <pre>
  ╭────┈ ↷
-│            ✎┊ f a c t s
+│             ┊ p a n c a k e s :
 │╭────────────╯
 ││•
 ││•
