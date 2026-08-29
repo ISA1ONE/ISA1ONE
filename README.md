@@ -16,12 +16,12 @@ ok
 
 <pre>
  ╭────┈ ↷
-│             ┊ p a n c a k e s :
+│             ┊ i n f o :
 │╭────────────╯
-││•
-││•
-││•
-││•
+││• Is being a pancake yume cool...
+││• I love pancakes yk..
+││• Im in love with pancakes..
+││• OH MY GOD
 ││•
 ││•
 ││•
