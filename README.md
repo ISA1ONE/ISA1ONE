@@ -16,7 +16,7 @@ ok
 
 <pre>
  ╭────┈ ↷
-│             ┊ i n f o :
+│             ┊ P a n c a k e. :
 │╭────────────╯
 ││
 ││• Is being a pancake yume cool...
