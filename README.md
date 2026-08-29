@@ -44,3 +44,7 @@ ok
 
 [PANCAKE sp](https://pancakegod.straw.page)
 <br clear="left" />
+
+
+| [OH MY GOD LETS EAT PANCAKE S PLSS,,, HOLY SHIT I WANNA GET MARRIED TO A PANCAKE.]((https://rentry.co/pancakegod)) |
+| :---: |
