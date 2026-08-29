@@ -10,3 +10,6 @@
     width: 150px; /* Adjust the image size as needed */
   }
 </style>
+
+<div class="container">
+  <img src=https://cdn.phototourl.com/member/2026-08-29-d6f1cac3-79bc-4127-9630-73f230291dc5.png alt="Sample Image" style="width: 150px;"><p>This text appears right beside the image.</p></div><style>.container {display: flex;align-items: center;gap: 15px;}</style>
