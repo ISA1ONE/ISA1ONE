@@ -1,33 +1,16 @@
-## Hi there 👋
+<div class="container">
+  <img src="image.jpg" alt="Description of image">
+  <p>This text will appear right beside the image.</p>
+</div>
 
-<!--
-**ISA1ONE/ISA1ONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-gglnvlhlhkyhhkc
-
-
-bvhvlkgx
-lyfkyfly
-
-hfzglykutskrrakuts
-kysoydlhhclufktslhhdottdlyf
-hdzktdkytsus
-
-mt.tzncJrJcigc
-n
-zlurlurjkyesk
-yjm+.4#+4#?-)5$
-
-.cjf
-skyeZ)5#&"
+<style>
+  .container {
+    display: flex;
+    align-items: center; /* Centers text vertically next to the image */
+    gap: 15px; /* Adds space between the image and text */
+  }
+  
+  .container img {
+    width: 150px; /* Adjust the image size as needed */
+  }
+</style>
