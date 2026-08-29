@@ -1,6 +1,6 @@
 <div class="container">
-  <img src="image.jpg" alt="Description of image">
-  <p>This text will appear right beside the image.</p>
+  <img src=https://cdn.phototourl.com/member/2026-08-29-d6f1cac3-79bc-4127-9630-73f230291dc5.png alt=AKECHI PANCAKE>
+  <p>PANCAKEOSHWBSIAGA</p>
 </div>
 
 <style>
